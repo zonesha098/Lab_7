@@ -1,0 +1,4 @@
+Left Outer : 10 rows - all enrollments; CS999 has no course details
+Inner : 9 rows - only enrollments whose course exists
+Full Outer : 11 rows - all enrollments plus course CS305 that nobody took
+Left Anti : 1 row - enrollment E10 with the invalid code CS999
